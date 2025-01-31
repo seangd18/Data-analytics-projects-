@@ -1,1 +1,1 @@
-These are projects I have done in the past showing data analytics skills in R studio also has implementation done in Python
+These are projects I have done in the past showing data analytics skills in R studio also has implementation done in Python, along wih a project I did in excel python and R manipulating the data in the same fashion. 
